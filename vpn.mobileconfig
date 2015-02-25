@@ -2043,11 +2043,11 @@
 				<key>AuthName</key>
 				<string>user</string>
 				<key>CCPEnabled</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>CCPMPPE128Enabled</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>CCPMPPE40Enabled</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>CommRemoteAddress</key>
 				<string>vpn.doudoujay.com</string>
 			</dict>
